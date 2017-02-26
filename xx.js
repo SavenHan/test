@@ -6441,7 +6441,7 @@ var domains = {
      "mangarockhd.com":1,
      "yomanga.co":1,
      "9gag.com":1,
-     "mangahere.co":1,
+     "mangahere.com":1,
      "mangafox.me":1,
      "kissmanga.com":1,
      "mangaeden.com":1
